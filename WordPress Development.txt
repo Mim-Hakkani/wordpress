@@ -1,0 +1,44 @@
+01. Theme Development basic
+https://mega.nz/#F!uKAn0YRJ!w6ZuaLZI3qQtLN-mYUKbzg
+
+02. Html To WordPress
+https://mega.nz/#F!HbY1yS6Z!IL5_7vISe1EHUGmfSEnXuA
+
+03. Redux Framework
+https://mega.nz/#F!TLQ3AaiI!Nzw4dpdviteSe5pc7-KTgw
+
+04. CMB 2 Framework
+https://mega.nz/#F!rPQgGABa!7vXwP22S7zYiuRYUaicpEQ
+
+05. Widget Development
+https://mega.nz/#F!GCYU0aAY!REU7Zx43Qx31o5ta16Bk4w
+
+06. Shortcode
+https://mega.nz/#F!vDZWmQgR!g9es2D3UvPnoV0WtAKXuvQ
+
+07. zItaly Food Theme Development
+https://mega.nz/#F!beBzEQYB!1MVgsyHJzGFDB0Ps7nxrqA
+
+08. wooCommerce Development Basic
+https://mega.nz/#F!ifYkmCRS!yn_T6hqXYv4BJWjYytv_AA
+
+09. Premium Theme Development with wooCommerce
+https://mega.nz/#F!CSIigaxL!A_uOTYj7LqHtKaxs0rjUyw
+
+10. Plugins Development
+https://mega.nz/#F!CSJRmSIZ!uDWbyNaAQOujH5DsE8eo2g
+
+11. Basic Gallery Plguins
+https://mega.nz/#F!eHZVDCYQ!BcGVqeZ1WxE56IEG1xK3vg
+
+12. settings API
+https://mega.nz/#F!TKBi3AyI!y6xglrKSkJc3t9jydjUt2Q
+
+13. sample theme options development
+https://mega.nz/#F!3OAAWSBB!f_5fRMRTzdfJEFWsVmKYmA
+
+14. WPDB
+https://mega.nz/#F!GCARlABa!SphnxurUC7WTjVCCl1c8LA
+
+15. Page options basic concept like avada
+https://mega.nz/#F!nGJkQSYa!pIaXyqDyWbxlKGgt1yX4tA
